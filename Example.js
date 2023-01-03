@@ -1,7 +1,1 @@
-<!Doctype html>
-<head>
-</head>
-<body>
-<script src="scripts/main.js"></script>
-</body>
-</html?
+
